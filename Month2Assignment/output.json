@@ -1,0 +1,92 @@
+[
+    {
+        "claim_id": 1,
+        "description": "\"My car was rear-ended at a traffic signal and the bumper is damaged.\"",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 2,
+        "description": "\"A tree fell on my house during a storm and damaged the roof.\"",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 3,
+        "description": "\"A customer slipped on a wet floor in my store and is demanding compensation.\"",
+        "classification": {
+            "claim_type": "Liability",
+            "tone": "Urgent",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 4,
+        "description": "\"My parked vehicle was hit overnight and the side mirror is broken.\"",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 5,
+        "description": "\"There was a kitchen fire that caused smoke damage throughout my apartment.\"",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Frustrated",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 6,
+        "description": "\"The other driver ran a red light and totaled my vehicle. I need immediate assistance.\"",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Urgent",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 7,
+        "description": "\"A visitor claims they were injured on my property and may sue me.\"",
+        "classification": {
+            "claim_type": "Liability",
+            "tone": "Urgent",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 8,
+        "description": "\"Water leaked from an upstairs apartment and damaged my furniture.\"",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Frustrated",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 9,
+        "description": "\"Someone scratched my car in a parking lot. I am very upset about the delay in processing.\"",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Frustrated",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 10,
+        "description": "\"My vehicle and garage were both damaged during a severe hailstorm.\"",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    }
+]
